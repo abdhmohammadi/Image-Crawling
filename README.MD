@@ -9,10 +9,11 @@ The 'Wallpapers' column from the search results of 'sunny' and<br/>
 The 'Generated' column are processed results.<br/><br/>
 <table align='center' border='1'>
 <tr>
-<td><h1>Quotes</h1></td>
-<td><h1>Wallpapers</h1></td><td>
-<h1>Generated</h1></td>
-</tr><tr>
+<td align='center'><h1>Quotes</h1></td>
+<td align='center'><h1>Wallpapers</h1></td>
+<td align='center'><h1>Generated</h1></td>
+</tr>
+<tr>
 <td><img src='/safe_images/anne_quotes/32.jpg'  widrh='300'  height='200'/></td>
 <td><img src='/safe_images/wallpapers/1.jpg'  widrh='300'  height='200'/></td>
 <td><img src='/generated_images/1.jpg'  widrh='300'  height='200'/></td>
