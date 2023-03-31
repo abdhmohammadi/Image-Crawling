@@ -13,33 +13,33 @@ The 'Generated' column are processed results.<br/><br/>
 	<td align='center'><h1>Wallpapers</h1></td>
 	<td align='center'><h1>Generated</h1></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/32.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/1.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/1.jpg' width='300' height='200'/></td>
+        <td><img src='./safe_images/anne_quotes/26.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/3.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/5.jpg' width='300' height='200'/></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/34.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/16.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/2.jpg' width='300' height='200'/></td>
+        <td><img src='./safe_images/anne_quotes/19.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/5.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/7.jpg' width='300' height='200'/></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/11.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/4.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/3.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/anne_quotes/10.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/14.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/14.jpg' width='300' height='200'/></td>
 </tr><tr>
 	<td><img src='./safe_images/anne_quotes/12.jpg' width='300' height='200'/></td>
 	<td><img src='./safe_images/wallpapers/2.jpg' width='300' height='200'/></td>
 	<td><img src='./generated_images/4.jpg' width='300' height='200'/></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/26.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/3.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/5.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/anne_quotes/23.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/17.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/17.jpg' width='300' height='200'/></td>
 </tr><tr>
 	<td><img src='./safe_images/anne_quotes/35.jpg' width='300' height='200'/></td>
 	<td><img src='./safe_images/wallpapers/6.jpg' width='300' height='200'/></td>
 	<td><img src='./generated_images/6.jpg' width='300' height='200'/></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/19.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/5.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/7.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/anne_quotes/34.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/16.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/2.jpg' width='300' height='200'/></td>
 </tr><tr>
 	<td><img src='./safe_images/anne_quotes/25.jpg' width='300' height='200'/></td>
 	<td><img src='./safe_images/wallpapers/9.jpg' width='300' height='200'/></td>
@@ -61,9 +61,9 @@ The 'Generated' column are processed results.<br/><br/>
 	<td><img src='./safe_images/wallpapers/10.jpg' width='300' height='200'/></td>
 	<td><img src='./generated_images/12.jpg' width='300' height='200'/></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/10.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/14.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/14.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/anne_quotes/11.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/4.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/3.jpg' width='300' height='200'/></td>
 </tr><tr>
 	<td><img src='./safe_images/anne_quotes/20.jpg' width='300' height='200'/></td>
 	<td><img src='./safe_images/wallpapers/15.jpg' width='300' height='200'/></td>
@@ -73,9 +73,9 @@ The 'Generated' column are processed results.<br/><br/>
 	<td><img src='./safe_images/wallpapers/13.jpg' width='300' height='200'/></td>
 	<td><img src='./generated_images/16.jpg' width='300' height='200'/></td>
 </tr><tr>
-	<td><img src='./safe_images/anne_quotes/23.jpg' width='300' height='200'/></td>
-	<td><img src='./safe_images/wallpapers/17.jpg' width='300' height='200'/></td>
-	<td><img src='./generated_images/17.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/anne_quotes/32.jpg' width='300' height='200'/></td>
+	<td><img src='./safe_images/wallpapers/1.jpg' width='300' height='200'/></td>
+	<td><img src='./generated_images/1.jpg' width='300' height='200'/></td>
 </tr><tr>
 	<td><img src='./safe_images/anne_quotes/16.jpg' width='300' height='200'/></td>
 	<td><img src='./safe_images/wallpapers/18.jpg' width='300' height='200'/></td>
